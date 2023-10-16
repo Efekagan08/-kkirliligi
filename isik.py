@@ -34,4 +34,4 @@ async def star(ctx, star_count: int):
     level = determine_light_pollution(star_count)
     await ctx.send(f'{star_count} gökyüzündeki yıldızların sayısına göre ışık kirliliği seviyesi {level}')
 
-bot.run('MTE1OTg3OTc1MTIwOTYwMzE3Mw.GS02Jt.0UuEk-S5beKdb5Zbzyp9BRii4Ny6xYQGNqkheg')
+bot.run('Bottoken')
